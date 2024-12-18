@@ -1,5 +1,5 @@
 # Nutrition Recommendation Dashboard
-
+Demo https://khalidke.github.io/Nutrition-Recommendation-Dashboard/
 ## Overview
 
 This project is a responsive **Nutrition Recommendation Dashboard** designed to showcase meal plans for a day, including details like calories, nutrients, suggested timing, and meal descriptions with icons. It uses modern web development techniques, including a **CSS Grid layout** and **animations**, to provide a clean and interactive user interface.
